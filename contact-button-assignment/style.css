@@ -1,0 +1,44 @@
+/*
+MY COLOR PALETTE
+Color 1 - #b5b8a3
+Color 2 - #c6b89e
+Color 3 - #373737
+Color 4 - #fcb97d
+Color 5 - #edb6a3
+*/
+
+body {
+    background-color: #373737;
+    text-align: center;
+}
+
+button {
+    background-color: #c6b89e;
+    color: #373737;
+    font-family: "Alumni Sans Pinstripe", serif;
+    font-size: 30px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    font-weight: 300;
+    width: 200px;
+    padding: 10px;
+    margin: 10px;
+    border: none;
+    border-radius: 10px;
+}
+button:hover {
+    background-color: #fcb97d;
+}
+
+h1 {
+    color: #edb6a3;
+    font-family: "Abril Fatface", serif;
+    margin-bottom: -10px;
+}
+
+h2 {
+    color: #b5b8a3;
+    font-family: "Alumni Sans Pinstripe", serif;
+    letter-spacing: 4px;
+    margin-top: 5px;
+}
