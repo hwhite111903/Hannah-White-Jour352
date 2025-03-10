@@ -77,24 +77,30 @@ Color 5 - #baa898
         color: #353535;
     }
     
+    }
     #sections1 {
         color: #ebe5de;
         font-family: "Alumni Sans Pinstripe", serif;
         text-align: left;
         margin-top: 50px;
+        margin-left: 20px;
     }
-
+.jobtitle{
+    font-size: 30px;
+}
     #sections2 {
         color: #ebe5de;
         font-family: "Alumni Sans Pinstripe", serif;
         text-align: left;
         margin-top: 50px;
+        margin-left: 20px;
     }
     #sections3 {
         color: #ebe5de;
         font-family: "Alumni Sans Pinstripe", serif;
         text-align: left;
         margin-top: 50px;
+        margin-left: 20px;
     }
 }
 @media (min-width: 576px) {
