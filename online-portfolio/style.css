@@ -70,6 +70,12 @@ Color 5 - #baa898
         border: none;
         border-radius: 20px;
     }
+    .button{
+        color: #282120;
+    }
+    .button:hover {
+        color: #baa898;
+    }
     #navigation {
         margin: 20px 0px 0px 0px;
         text-align: center;
@@ -102,6 +108,9 @@ Color 5 - #baa898
         margin-top: 50px;
         margin-left: 20px;
     }
+.degree{
+    font-size: 30px;
+}
 }
 @media (min-width: 576px) {
     h1 {
