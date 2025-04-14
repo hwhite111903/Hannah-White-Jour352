@@ -14,13 +14,11 @@ body {
     margin: auto
 }
 #contact:hover {
-    color: red;
+    color: skyblue;
 }
 #info {
     width: 100%;
     margin: auto;
-    margin-bottom: 50px;
-    margin-left: 20px;
 }
 p{
   margin: auto 50px auto 50px;  
@@ -30,7 +28,6 @@ p{
     color: aliceblue;
     padding: 20px;
     width: 100%;
-    margin: auto
     position: fixed;
     bottom: 0px;
     left: 0px;
